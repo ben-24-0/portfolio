@@ -30,3 +30,50 @@
     transform: rotate(360deg);
   }
 }
+
+.bar-expand {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 0;
+  padding-right: 24px;
+  background: #313131;
+  height: 42px;
+  line-height: 42px;
+  border-radius: 3px 0 0 3px;
+}
+
+/* Skill-specific colors */
+.html5 {
+  background: #F06529 !important;
+}
+
+.css {
+  background: #264de4 !important;
+}
+
+.reactjs {
+  background: #61DBFB !important;
+}
+
+.skills {
+  list-style: none;
+}
+
+.skills li {
+  position: relative;
+  margin-bottom: 15px;
+  padding: 0;
+}
+
+.skills em {
+  font: 15px 'opensans-bold', sans-serif;
+  color: #313131;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: normal;
+  position: relative;
+  top: -36px;
+  left: 0;
+  padding-left: 10px;
+}

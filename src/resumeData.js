@@ -6,10 +6,10 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Benson Eldho",
-    "role": "Learning Fullstack Devolopment",
+    "role": "Fullstack Devolopment",
     "linkedinId":" benson-eldho-856476304",
     "instagramId": "@7_heavenly_virtue",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -40,9 +40,9 @@ let resumeData = {
       },
       {
         "UniversityName":"MGM Higher Secondary School",
-        "specialization":"Computer Science ",
+        "specialization":"+1/+2   ' Computer Science ",
         "MonthOfPassing":"",
-        "YearOfPassing":"2023",
+        "YearOfPassing":"2022",
         "Achievements":""
       },
       
@@ -63,16 +63,24 @@ let resumeData = {
     //     "Achievements":"Some Achievements"
     //   }
     // ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5",
+        "level": "60"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS",
+        "level": "40"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Reactjs",
+        "level": "30"
+      }
+      ,
+      {
+        "skillname":"Flutter",
+        "level": "20"
       }
     ],
     "portfolio":[
@@ -104,10 +112,10 @@ let resumeData = {
         "description":"Lazy hands make for poverty, but diligent hands bring wealth",
         "name":" (Proverbs 10:4)"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   

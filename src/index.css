@@ -13,3 +13,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.skills-container {
+  padding: 20px;
+}
+
+.skill-item {
+  margin-bottom: 20px;
+}
+
+.skill-name {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.skill-bar {
+  height: 2.5em;
+  background: #2b2b2b;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.skill-bar .bar.flutter ,.bar.html5 ,.bar.css ,.bar.reactjs {
+  height: 100%;
+  border-radius: 3px;
+  /* transition: width 0.5s ease; */
+  
+}
+
+.skill-bar .bar.html5 {
+  background: #FF6B6B;
+}
+
+.skill-bar .bar.css {
+  background: #4ecd76;
+}
+
+.skill-bar .bar.reactjs {
+  background: #53bbf3;
+}
+
+.skill-bar .bar.flutter {
+  background: #4c27b0;
+}
