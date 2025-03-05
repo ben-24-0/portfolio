@@ -8,7 +8,8 @@ let resumeData = {
     "name": "Benson Eldho",
     "role": "Fullstack Devolopment",
     "linkedinId":" benson-eldho-856476304",
-    "instagramId": "@7_heavenly_virtue",
+    "instagramId": " @7_heavenly_virtue",
+    "emailId":" bensoneldhoct@gmail.com",
     "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, simply play games in my free time.",
     "socialLinks":[
         {
